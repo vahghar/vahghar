@@ -20,4 +20,4 @@
   - He/Him
 
 # ⚡ Fun fact:
-  - If everytime someone asks you a question and you try to give the right answer, YOUR ENTIRE LIFE IS A TEST.
+  - If everytime someone asks you a question and you try to give the right answer, your entire life is a test.
