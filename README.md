@@ -6,8 +6,8 @@
   - Competitive programming
 
 # 🌱 I’m currently learning:
-  - How web3 works
-
+  - React native
+    
 # 💞️ I’m looking to collaborate on:
   - Open-source projects
   - Full-stack applications
