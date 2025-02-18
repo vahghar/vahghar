@@ -1,5 +1,9 @@
 🚀 My Coding Stats
-<div align="center"> <img src="https://leetcard.jacoblin.cool/raghavtemp?theme=dark&font=Karma" alt="Leetcode Stats" width="50%" /> <img src="https://github-readme-stats.vercel.app/api?username=vahghar&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+<div align="center"> 
+  <img src="https://leetcard.jacoblin.cool/raghavtemp?theme=dark&font=Karma" alt="Leetcode Stats" width="51%" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=vahghar&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+</div>
+
 🛠 Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
